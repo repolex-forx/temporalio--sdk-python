@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/temporalio/sdk-python/commit/da794611dbfc746ca27c65385d00d9089de5c57b",
       "git:hexsha": "da794611dbfc746ca27c65385d00d9089de5c57b",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T00:53:32.619825+00:00"
     },
     {
       "@id": "https://repolex.ai/r/temporalio/sdk-python/commit/641efe8a4683e8ad63e15478e71934aa8d71e834",
