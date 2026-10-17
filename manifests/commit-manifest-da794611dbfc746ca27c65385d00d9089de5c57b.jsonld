@@ -1,0 +1,50 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/temporalio/sdk-python/commit/da794611dbfc746ca27c65385d00d9089de5c57b",
+  "@type": "git:Commit",
+  "git:hexsha": "da794611dbfc746ca27c65385d00d9089de5c57b",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/temporalio/sdk-python"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/da794611dbfc746ca27c65385d00d9089de5c57b.nq.gz",
+      "repolex:graphFileSize": 142328
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 1093805
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 14404
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 2472
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "issue",
+      "repolex:graphFilePath": "issue/issue.nq.gz",
+      "repolex:graphFileSize": 461463
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "pr",
+      "repolex:graphFilePath": "pr/pr.nq.gz",
+      "repolex:graphFileSize": 881204
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-17T00:38:58.774942+00:00",
+  "repolex:parserVersion": "0.1.10"
+}
